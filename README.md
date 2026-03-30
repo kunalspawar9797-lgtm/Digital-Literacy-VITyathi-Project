@@ -3,7 +3,7 @@
 This repository contains the completed tasks and documentation for the Digital Literacy (CSE0001) course at VIT Bhopal University. The project focuses on developing essential digital skills, professional communication, and cyber safety awareness.
 ##
 Student Information
-#
+
 Name: Kunal Pawar
 
 Registration Number: 25BCE10486
