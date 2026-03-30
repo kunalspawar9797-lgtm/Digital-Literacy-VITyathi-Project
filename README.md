@@ -44,8 +44,10 @@ Conducts an in-depth analysis of Online UPI Fraud. While analysing we explore ho
 ### Professional profile Links
 
 GitHub: https://github.com/shreebhere64-code
+
 LinkedIn: https://www.linkedin.com/in/kunal-pawar-405704381/ 
+
 HackerRank: https://www.hackerrank.com/profile/shreyash 25bce11
 
-Conclusion
+### Conclusion
 Through this project, I have moved beyond just "using" technology to understanding the responsibility that comes with digital citizenship. I have learned to prioritize the quality of understanding over the speed of completion, ensuring a safer and more professional digital experience.
