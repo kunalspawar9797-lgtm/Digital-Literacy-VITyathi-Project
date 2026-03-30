@@ -6,7 +6,9 @@ This repository contains the completed tasks and documentation for the Digital L
 Student Information
 
 Name: Kunal Pawar
+
 Registration Number: 25BCE10486
+
 Program: B.Tech Computer Science and Engineering
 
 
