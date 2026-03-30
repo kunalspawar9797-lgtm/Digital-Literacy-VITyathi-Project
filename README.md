@@ -17,7 +17,7 @@ The primary goal of this project was to transition from basic technical proficie
 
 
 
-###Task Breakdown
+##### Task Breakdown
 
 ###Task 1: Infographic Creation
 
